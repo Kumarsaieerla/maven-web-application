@@ -147,8 +147,6 @@ while true; do
         0) echo "Exiting..."; exit;;
         *) echo "Invalid choice";;
     esac
-
-    read -p "Press enter to continue..."
-    clear
     exit
+    
 done
